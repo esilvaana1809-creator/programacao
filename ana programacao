@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<HTML lang=PT-BR>
+    <HEAD>
+        <META charset="UTF-8">
+            <meta name="view port" content="width=device-width, initial-scale:1.0">
+            <linkrel="stylesheet" href="style.css">
+            <div class="containertext-center">
+                <div class="row align-itens-start">
+                    <div class="col"> one of three colums </div>
+                    <div class="col"> one of three colums </div>
+                    <div class="col"> one of three colums </div>
+                    </div>
+                    </div>
+                    
+
+            
